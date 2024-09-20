@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practice';
+
+  test(){
+    console.log("1234");
+  }
 }
